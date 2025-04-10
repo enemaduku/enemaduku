@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enemaduku
-- 🌱 I’m currently learning/working with REACT.JS
+- 🌱 I’m a frontend developer
 - 📫 How to reach me nuhu.audu@live.co.uk
 
 <!---
