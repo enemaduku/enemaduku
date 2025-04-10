@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @enemaduku
-- 👀 I’m interested in software developmemt
-- 🌱 I’m currently a UX/UI Designer
 - 🌱 I’m currently learning/working with REACT.JS
-- 💞️ I’m looking to collaborate on UX
 - 📫 How to reach me nuhu.audu@live.co.uk
 
 <!---
